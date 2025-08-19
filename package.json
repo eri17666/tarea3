@@ -1,7 +1,6 @@
 {
   "name": "proyecto_base",
   "version": "1.0.0",
-  "main": "index.html",
   "scripts": {
     "start": "parcel index.html",
     "dev": "parcel index.html",
